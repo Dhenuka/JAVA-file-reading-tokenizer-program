@@ -16,6 +16,7 @@ public class InClassOne {
 		// TODO Auto-generated method stub
 
 		//String filename = "userList1.txt";
+		String name = "dhenuka";
 		User user = new User("","","","");
 		//user.parseUser("userList1.txt");
 		
