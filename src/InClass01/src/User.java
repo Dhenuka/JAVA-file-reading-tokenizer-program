@@ -10,6 +10,7 @@ public class User implements Comparator<User>{
 	String m_name;
 	String l_name;
 	String address;
+	String data;
 	//String filename;
 	ArrayList<User> userList = new ArrayList<User>();
 	
